@@ -1,0 +1,175 @@
+{
+    "produtos": [
+        {
+            "id": 2,
+            "nome": "isabelly ",
+            "descricao": "Camiseta de algodão",
+            "preco": 30,
+            "categoria_id": 2,
+            "imagem": "camiseta.jpg"
+        },
+        {
+            "id": 3,
+            "nome": "Vaso de Flores",
+            "descricao": "Vaso de flores decorativo",
+            "preco": 50,
+            "categoria_id": 3,
+            "imagem": "vaso_flores.jpg"
+        },
+        {
+            "nome": "minha camiseta",
+            "descricao": "Camiseta de algodão",
+            "preco": "39",
+            "imagem": "simm",
+            "id": "3ccc4440-f73a-4200-9aca-4696bc4586ba"
+        },
+        {
+            "nome": " ",
+            "descricao": " ",
+            "preco": " ",
+            "imagem": " ",
+            "id": "7d293419-1011-4f01-b934-04fad147ca7a"
+        }
+    ],
+    "clientes": [
+        {
+            "id": 1,
+            "nome": "João Silva",
+            "email": "joao.silva@example.com",
+            "senha": "123456",
+            "endereco": {
+                "rua": "Rua dos Pinheiros",
+                "numero": 123,
+                "bairro": "Centro",
+                "cidade": "São Paulo",
+                "estado": "SP",
+                "cep": "01234-567"
+            }
+        },
+        {
+            "id": 2,
+            "nome": "camiseta",
+            "email": "maria.oliveira@example.com",
+            "senha": "abcdef",
+            "endereco": {
+                "rua": "Rua das Flores",
+                "numero": 456,
+                "bairro": "Jardim",
+                "cidade": "Rio de Janeiro",
+                "estado": "RJ",
+                "cep": "98765-432"
+            }
+        },
+        {
+            "nome": "isabelly ",
+            "email": "ramon@teste.com",
+            "senha": "$2a$10$7XZZNiM5hE8xV5VEAoXwS.X.sV2EUa6l.Hkk4vAs665nxg4gY8sr2",
+            "id": "c31eb783-2bc6-423f-82a5-e1fc61898768"
+        },
+        {
+            "nome": "ramon teste",
+            "email": "ramon@teste.com",
+            "senha": "$2a$10$bllTl6zBXlTK8I6Vn7MnROY.hNtBFPIAbOrRC4Itd0/dNgqHXuHv.",
+            "id": "d43bc163-3962-470b-a217-d75d96382cd1"
+        },
+        {
+            "nome": "ramon teste",
+            "email": "ramon@teste.com",
+            "senha": "$2a$10$XLi7QzTNsfFunLiMPZtTjO.RMdPEHuC.kIirTGzI09v2cmOXCSqMK",
+            "id": "28aa9dfa-b64a-4e25-809d-5433dfc54d16"
+        },
+        {
+            "nome": "ramon teste",
+            "email": "ramon@teste.com",
+            "senha": "$2a$10$eZ0vCuUaKDVNmX3jalvc6.wnUxuVAMl0MvQSukIiZ7El6wtT/7AZi",
+            "id": "00878bdf-66f7-44c5-80d9-998f1543ddfd"
+        },
+        {
+            "nome": "ramon teste",
+            "email": "ramon@teste.com",
+            "senha": "$2a$10$jmbUbTniMcYqHDdMcA97G.2Oa1gPxgf9iFismLkYViOAXF377gaoq",
+            "id": "dfd6e1f5-6d42-4d7a-8a04-c5e96548fea2"
+        },
+        {
+            "nome": "ramon teste",
+            "email": "ramon@teste.com",
+            "senha": "$2a$10$dB2iYXVsBUozwXM/13OCgOZJLUE7i8APzBWtnaRQZT4wd2uDarzoa",
+            "id": "6defc7dd-2ad8-436d-8aab-c4f545519f11"
+        },
+        {
+            "nome": "ramon teste",
+            "email": "ramon@teste.com",
+            "senha": "$2a$10$i077OI31l6Tuy6rO6QJZ2ub2tAEdtErvqHrgOSfbHCxE/ds2iK1H.",
+            "id": "351f6d58-a3d6-4b18-9083-f323ff5d42eb"
+        },
+        {
+            "nome": "isabelly teste",
+            "email": "ramon@teste.com",
+            "senha": "$2a$10$AiGTO7zEzl.PHXba.YYIx.kIYd.MQXqAjccERXaG4kfav7ph9RWZG",
+            "id": "ea81c217-8473-4887-bb9b-631b70b30a9b"
+        },
+        {
+            "nome": "Isabelly teste2",
+            "email": "isabelly@teste.com",
+            "senha": "$2a$10$yt1nxwApsC0J1ULFtj7P5uUU92RzoNnc11h.uTT0nkX4hL3RgHiFi",
+            "id": "e3193f27-92b7-454c-86c7-ebc02b712503"
+        },
+        {
+            "nome": "Isabelly teste2",
+            "email": "isabelly@teste.com",
+            "senha": "$2a$10$vOcAdg1BoIQUw7VMM2YR0OVopG1emG3Kft14vl5X.MzttCA9SxeYG",
+            "id": "b7e58ad3-81cc-47fd-be2c-123f0f5c96c4"
+        },
+        {
+            "nome": "Isabelly teste2",
+            "email": "isabelly@teste.com",
+            "senha": "$2a$10$wJnYik/a0L9h74z2dNL08.mtc8qx6HudlI.i7b5O0SboyOC4UxMAG",
+            "id": "21a30a33-81f2-443c-91d8-e69e528ca46e"
+        },
+        {
+            "nome": "Isabelly teste2",
+            "email": "isabelly@teste.com",
+            "senha": "$2a$10$0dly0pa13KH/cOZ1BcAA3.t.ka7KbDpfv8r8GHjZPp6/Zu4ofUqm.",
+            "id": "dd0eda8c-dd16-4f99-aacb-8d530ab882a9"
+        },
+        {
+            "nome": " ",
+            "email": " ",
+            "senha": "$2a$10$Yj7DfvAsxZfvk/jajv7.BerAVetFfTMPUXD2JbeK0S5mTh6WGacCe",
+            "id": "ea6a150d-ad8c-49be-bee8-a9ee9605298e"
+        }
+    ],
+    "pedidos": [
+        {
+            "id": 1,
+            "cliente_id": 1,
+            "data_pedido": "2022-01-01",
+            "status": "pendente",
+            "itens": [
+                {
+                    "produto_id": 1,
+                    "quantidade": 2,
+                    "preco_unitario": 1500
+                },
+                {
+                    "produto_id": 2,
+                    "quantidade": 1,
+                    "preco_unitario": 30
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "cliente_id": 2,
+            "data_pedido": "2022-01-15",
+            "status": "entregue",
+            "itens": [
+                {
+                    "produto_id": 3,
+                    "quantidade": 1,
+                    "preco_unitario": 50
+                }
+            ]
+        }
+    ]
+}
